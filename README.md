@@ -47,7 +47,7 @@ This project demonstrates a complete MySQL database deployment on Kubernetes, fe
 │  │  │  - MYSQL_USER (secret)             │  │  │
 │  │  │  - MYSQL_PASSWORD (secret)         │  │  │
 │  │  │                                     │  │  │
-│  │  │  Volume Mount: /var/lib/mysql      │  │  │
+│  │  │  Volume Mount: /var/lib/mysql      │  │  │ 
 │  │  └─────────────┬──────────────────────┘  │  │
 │  │                │                          │  │
 │  │                ▼                          │  │
