@@ -1,0 +1,61 @@
+# Kubernetes
+*.log
+*.tmp
+.kube/
+
+# Secrets - NEVER commit actual secrets
+*-secret.yaml
+*-secrets.yaml
+secrets-backup.yaml
+
+# Backup files
+*.sql
+backup/
+backups/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Documentation build files
+docs/_build/
+docs/.doctrees/
+
+# Python (if using helper scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Node (if using any JS tools)
+node_modules/
+npm-debug.log*
+
+# Helm (if used later)
+charts/*.tgz
+
+# Testing
+test-results/
+coverage/
+
+# Personal notes
+notes.txt
+TODO.txt
+personal/
