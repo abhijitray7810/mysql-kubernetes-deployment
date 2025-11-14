@@ -261,8 +261,8 @@ This project is licensed under the MIT License - see the [.gitignore] file for d
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abhijit-ray-336442295)
-- GitHub: [@yourusername](https://github.com/abhijitray7810)
+- LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/abhijit-ray-336442295)
+- GitHub: [](https://github.com/abhijitray7810)
 
 ## 🌟 Acknowledgments
 
