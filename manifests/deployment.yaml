@@ -10,7 +10,7 @@ spec:
   selector:
     matchLabels:
       app: mysql
-  template:
+  template: 
     metadata:
       labels:
         app: mysql
