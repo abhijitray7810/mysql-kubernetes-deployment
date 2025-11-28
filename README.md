@@ -6,7 +6,7 @@
 
 A production-ready MySQL database deployment on Kubernetes with persistent storage, secret management, and NodePort service exposure.
 
-## 📋 Table of Contents
+ ## 📋 Table of Contents
 
 - [Overview](#overview)
 - [Architecture](#architecture)
