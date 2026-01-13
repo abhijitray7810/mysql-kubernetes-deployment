@@ -128,7 +128,7 @@ See [detailed deployment guide](docs/deployment-guide.md) for comprehensive inst
    ```bash
    kubectl apply -f manifests/service.yaml
    ```
-
+ 
 ## ✔️ Verification
 
 ### Check All Resources
